@@ -1,3 +1,6 @@
+#problem → https://rosalind.info/problems/dna/
+#solution
+
 def nucleotide(dna):
     A = dna.count("A")
     C= dna.count("C")
