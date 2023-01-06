@@ -15,10 +15,3 @@ res = str(nucleotide(dna.read()))
 output = open("output_dna.txt","w+")
 output.write(res)
 output.close()
-
-
-
-
-
-
-    
